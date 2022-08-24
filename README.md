@@ -1,7 +1,3 @@
-# I'm ready for a change. 
+# README Example
 
-This change is only in number 2
-
-this another change and I will forget the commit message
-
-another change
+I'm a bogus readme file just to see if this works.
